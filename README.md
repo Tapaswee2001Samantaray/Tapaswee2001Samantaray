@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapaswee2001samantaray&show_icons=true&locale=en" alt="tapaswee2001samantaray" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapaswee2001samantaray&" alt="tapaswee2001samantaray" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapaswee2001samantaray&&theme=tokyonight" alt="tapaswee2001samantaray" /></p>
