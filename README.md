@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tapas10231@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pXUxQy7wvac3rn3W9SUWc1UeHtxBAbgm/view?usp=share_link](https://drive.google.com/file/d/1pXUxQy7wvac3rn3W9SUWc1UeHtxBAbgm/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1pXUxQy7wvac3rn3W9SUWc1UeHtxBAbgm/view?usp=share_link](https://drive.google.com/file/d/1t-5HTAqsu6dgxGhkeAp_f4vmcPdJBkw8/view?usp=sharing)](https://drive.google.com/file/d/1pXUxQy7wvac3rn3W9SUWc1UeHtxBAbgm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
